@@ -54,7 +54,6 @@ Transform your available ingredients into delicious recipes with AI-powered culi
 2. **Install dependencies**
     pip install streamlit google-genai
 
-### Set up API key
 3. **Set up API key**
 * **Option A:** Create `.streamlit/secrets.toml` file:
     ```toml
